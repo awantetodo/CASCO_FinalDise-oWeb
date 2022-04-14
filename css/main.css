@@ -31,6 +31,7 @@ html {
 }
 .social ul li {
   transition: all 0.5s ease;
+  padding: 10px;
 }
 .social ul li a {
   color: white;
@@ -86,6 +87,7 @@ html {
   grid-area: bannerUno;
   color: #8e2761;
   background-color: #e1aebc;
+  overflow: scroll;
 }
 
 .noticiaTres {

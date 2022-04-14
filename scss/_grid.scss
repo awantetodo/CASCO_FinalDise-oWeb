@@ -16,7 +16,9 @@
   .bannerUno {
     grid-area: bannerUno;
     color: $color2;
-    background-color: $color4; }
+    background-color: $color4; 
+    overflow: scroll;
+  }
   
   .noticiaTres {
     grid-area: noticiaTres;
